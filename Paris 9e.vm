@@ -1,0 +1,20 @@
+== {{int:filedesc}} ==
+
+{{Information
+ | Description = {{fr|$external.description}}
+ | Source = {{own}}
+ | Date = $ExifIFD0.DateTime
+ | Author = {{User:$user.login/Credit}}
+}}
+#if ($GPS.GPSVersionID == "2.200")
+#parse ("includes/gps.vm")
+#end
+#parse ("includes/minicul.vm")
+
+== {{int:license-header}} ==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Paris 9e arrondissement by $user.login]]
+[[Category:Images by $user.login]]
+
+
