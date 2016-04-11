@@ -1,0 +1,73 @@
+
+== {{int:filedesc}} ==
+
+{{Hospices civils de Lyon
+
+|INV = $external.INV
+|ANUM = $external.ANUM
+|DOMN = $external.DOMN
+|DOMN_2 = $external.DOMN_2
+|DENO = $external.DENO
+|TYPO = $external.TYPO
+|TITR = $external.TITR
+|AUTR_CONCAT = $external.AUTR_CONCAT
+|PAUT = $external.PAUT
+|TECH_MATR = $external.TECH_MATR
+
+|ECOL = $external.ECOL
+|ATTR = $external.ATTR 
+|EXCT_CONCAT = $external.EXCT_CONCAT
+|PEXE = $external.PEXE
+|PLIEX = $external.PLIEX
+|COM = $external.COM
+|DECV = $external.DECV
+|PDEC = $external.PDEC
+
+|VERNA = $external.VERNA
+|TMILL1 = $external.TMILL1
+|MILL1 = $external.MILL1
+|Tmill2 = $external.Tmill2
+|MILL2 = $external.MILL2
+|STAD = $external.STAD
+|GENE = $external.GENE
+|PGEN = $external.PGEN
+|STYL = $external.STYL
+|UTLR = $external.UTLR
+|UTIL = $external.UTIL
+|PUTI = $external.PUTI
+|LIEU = $external.LIEU
+|HIST = $external.HIST
+
+|PTECH = $external.PTECH
+|INSC = $external.INSC 
+|PINS = $external.PINS
+|DESC = $external.DESC
+|REPR = $external.REPR
+|PREP = $external.PREP
+|DREP = $external.DREP
+|SREP = $external.SREP
+|DIMS_CONCAT = $external.DIMS_CONCAT
+|COULEUR = $external.COULEUR
+|ENSEM = $external.ENSEM
+|RENV = $external.RENV
+|NPART = $external.NPART
+|NFRAG = $external.NFRAG
+|UI_UE = $external.UI_UE
+
+|DACQ = $external.DACQ
+|STAT = $external.STAT
+|APTN_2 = $external.APTN_2
+
+|PHOT = $external.PHOT
+|COPY = $external.COPY
+
+|LOCA = {{Institution:Hospices civils de Lyon}}
+|BIBLIOGRAPHIES_2_CONCAT = $external.BIBLIOGRAPHIES_2_CONCAT
+
+}}
+
+== {{int:license-header}} ==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Collections of the Musée des Hospices civils de Lyon]]
+[[Category:Uploaded with ComeOn!]]
