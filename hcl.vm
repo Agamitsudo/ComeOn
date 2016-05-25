@@ -3,66 +3,65 @@
 
 {{Hospices civils de Lyon
 
-|INV = $external.INV
-|ANUM = $external.ANUM
-|DOMN = $external.DOMN
-|DOMN_2 = $external.DOMN_2
-|DENO = $external.DENO
-|TYPO = $external.TYPO
-|TITR = $external.TITR
-|AUTR_CONCAT = $external.AUTR_CONCAT
-|PAUT = $external.PAUT
-|TECH_MATR = $external.TECH_MATR
+|INV = $external.inv
+|ANUM = $external.anum
+|DOMN = $external.domn
+|DOMN_2 = $external.domn_2
+|DENO = $external.deno
+|TYPO = $external.typo
+|TITR = $external.titr
+|AUTR_CONCAT = $external.autr_concat
+|PAUT = $external.paut
+|TECH_MATR = $external.tech_matr
 
-|ECOL = $external.ECOL
-|ATTR = $external.ATTR 
-|EXCT_CONCAT = $external.EXCT_CONCAT
-|PEXE = $external.PEXE
-|PLIEX = $external.PLIEX
-|COM = $external.COM
-|DECV = $external.DECV
-|PDEC = $external.PDEC
+|ECOL = $external.ecol
+|ATTR = $external.attr 
+|EXCT_CONCAT = $external.exct_concat
+|PEXE = $external.pexe
+|PLIEX = $external.pliex
+|COM = $external.com
+|DECV = $external.decv
+|PDEC = $external.pdec
 
-|VERNA = $external.VERNA
-|TMILL1 = $external.TMILL1
-|MILL1 = $external.MILL1
-|Tmill2 = $external.Tmill2
-|MILL2 = $external.MILL2
-|STAD = $external.STAD
-|GENE = $external.GENE
-|PGEN = $external.PGEN
-|STYL = $external.STYL
-|UTLR = $external.UTLR
-|UTIL = $external.UTIL
-|PUTI = $external.PUTI
-|LIEU = $external.LIEU
-|HIST = $external.HIST
+|VERNA = $external.verna
+|TMILL1 = $external.tmill1
+|MILL1 = $external.mill1
+|Tmill2 = $external.tmill2
+|MILL2 = $external.mill2
+|STAD = $external.stad
+|GENE = $external.gene
+|PGEN = $external.pgen
+|STYL = $external.styl
+|UTLR = $external.utlr
+|UTIL = $external.util
+|PUTI = $external.puti
+|LIEU = $external.lieu
+|HIST = $external.hist
 
-|PTECH = $external.PTECH
-|INSC = $external.INSC 
-|PINS = $external.PINS
-|DESC = $external.DESC
-|REPR = $external.REPR
-|PREP = $external.PREP
-|DREP = $external.DREP
-|SREP = $external.SREP
-|DIMS_CONCAT = $external.DIMS_CONCAT
-|COULEUR = $external.COULEUR
-|ENSEM = $external.ENSEM
-|RENV = $external.RENV
-|NPART = $external.NPART
-|NFRAG = $external.NFRAG
-|UI_UE = $external.UI_UE
+|PTECH = $external.ptech
+|INSC = $external.insc
+|PINS = $external.pins
+|DESC = $external.desc
+|REPR = $external.repr
+|PREP = $external.prep
+|DREP = $external.drep
+|SREP = $external.srep
+|DIMS_CONCAT = $external.dims_concat
+|COULEUR = $external.couleur
+|ENSEM = $external.ensem
+|RENV = $external.renv
+|NPART = $external.npart
+|NFRAG = $external.nfrag
+|UI_UE = $external.ui_ue
 
-|DACQ = $external.DACQ
-|STAT = $external.STAT
-|APTN_2 = $external.APTN_2
+|DACQ = $external.dacq
+|STAT = $external.stat
 
-|PHOT = $external.PHOT
-|COPY = $external.COPY
+|PHOT = $external.phot
+|COPY = $external.copy
 
 |LOCA = {{Institution:Hospices civils de Lyon}}
-|BIBLIOGRAPHIES_2_CONCAT = $external.BIBLIOGRAPHIES_2_CONCAT
+|BIBLIOGRAPHIES_2_CONCAT = $external.bibliographies_2_concat
 
 }}
 
